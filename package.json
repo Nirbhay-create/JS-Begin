@@ -1,0 +1,22 @@
+{
+  "name": "js-begin-main",
+  "version": "1.0.0",
+  "description": "input in node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nirbhay-create/JS-Begin.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nirbhay-create/JS-Begin/issues"
+  },
+  "homepage": "https://github.com/Nirbhay-create/JS-Begin#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}

@@ -9,3 +9,4 @@ let e=true
 let f=undefined;
 let g=null;
 console.table([typeof(a),typeof(b),typeof(c),typeof(d),typeof(e),typeof(f),typeof(g)]);
+console.log((3**2)**2);
